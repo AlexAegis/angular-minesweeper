@@ -1,0 +1,10 @@
+{
+	"extends": "../../tslint.json",
+	"rules": {
+		"directive-selector": [true, "attribute", "angularMinesweeper", "camelCase"],
+		"component-selector": [true, "element", "angular-minesweeper", "kebab-case"]
+	},
+	"linterOptions": {
+		"exclude": ["!**/*"]
+	}
+}

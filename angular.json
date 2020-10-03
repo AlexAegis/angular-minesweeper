@@ -1,14 +1,12 @@
 {
-	"$schema": "./node_modules/@angular/cli/lib/config/schema.json",
 	"version": 1,
-	"newProjectRoot": "projects",
 	"projects": {
-		"angular-minesweeper": {
+		"minesweeper": {
 			"projectType": "application",
 			"schematics": {},
-			"root": "",
-			"sourceRoot": "src",
-			"prefix": "app",
+			"root": "apps/minesweeper",
+			"sourceRoot": "apps/minesweeper/src",
+			"prefix": "angular-minesweeper",
 			"architect": {
 				"build": {
 					"builder": "@angular-builders/custom-webpack:browser",
@@ -19,22 +17,25 @@
 								"externals": "replace"
 							}
 						},
-						"outputPath": "dist/angular-minesweeper",
-						"index": "src/index.html",
-						"main": "src/main.ts",
-						"polyfills": "src/polyfills.ts",
-						"tsConfig": "tsconfig.app.json",
+						"outputPath": "dist/apps/minesweeper",
+						"index": "apps/minesweeper/src/index.html",
+						"main": "apps/minesweeper/src/main.ts",
+						"polyfills": "apps/minesweeper/src/polyfills.ts",
+						"tsConfig": "apps/minesweeper/tsconfig.app.json",
 						"aot": true,
-						"assets": ["src/favicon.ico", "src/assets"],
-						"styles": ["src/styles.css"],
+						"assets": [
+							"apps/minesweeper/src/favicon.ico",
+							"apps/minesweeper/src/assets"
+						],
+						"styles": ["apps/minesweeper/src/styles.css"],
 						"scripts": []
 					},
 					"configurations": {
 						"production": {
 							"fileReplacements": [
 								{
-									"replace": "src/environments/environment.ts",
-									"with": "src/environments/environment.prod.ts"
+									"replace": "apps/minesweeper/src/environments/environment.ts",
+									"with": "apps/minesweeper/src/environments/environment.prod.ts"
 								}
 							],
 							"optimization": true,
@@ -63,60 +64,113 @@
 				"serve": {
 					"builder": "@angular-devkit/build-angular:dev-server",
 					"options": {
-						"browserTarget": "angular-minesweeper:build"
+						"browserTarget": "minesweeper:build"
 					},
 					"configurations": {
 						"production": {
-							"browserTarget": "angular-minesweeper:build:production"
+							"browserTarget": "minesweeper:build:production"
 						}
 					}
 				},
 				"extract-i18n": {
 					"builder": "@angular-devkit/build-angular:extract-i18n",
 					"options": {
-						"browserTarget": "angular-minesweeper:build"
-					}
-				},
-				"test": {
-					"builder": "@angular-devkit/build-angular:karma",
-					"options": {
-						"main": "src/test.ts",
-						"polyfills": "src/polyfills.ts",
-						"tsConfig": "tsconfig.spec.json",
-						"karmaConfig": "karma.conf.js",
-						"assets": ["src/favicon.ico", "src/assets"],
-						"styles": ["src/styles.css"],
-						"scripts": []
+						"browserTarget": "minesweeper:build"
 					}
 				},
 				"lint": {
 					"builder": "@angular-devkit/build-angular:tslint",
 					"options": {
 						"tsConfig": [
-							"tsconfig.app.json",
-							"tsconfig.spec.json",
-							"e2e/tsconfig.json"
+							"apps/minesweeper/tsconfig.app.json",
+							"apps/minesweeper/tsconfig.spec.json"
 						],
-						"exclude": ["**/node_modules/**"]
+						"exclude": ["**/node_modules/**", "!apps/minesweeper/**/*"]
 					}
 				},
-				"e2e": {
-					"builder": "@angular-devkit/build-angular:protractor",
+				"test": {
+					"builder": "@nrwl/jest:jest",
 					"options": {
-						"protractorConfig": "e2e/protractor.conf.js",
-						"devServerTarget": "angular-minesweeper:serve"
+						"jestConfig": "apps/minesweeper/jest.config.js",
+						"passWithNoTests": true
+					}
+				}
+			}
+		},
+		"minesweeper-e2e": {
+			"root": "apps/minesweeper-e2e",
+			"sourceRoot": "apps/minesweeper-e2e/src",
+			"projectType": "application",
+			"architect": {
+				"e2e": {
+					"builder": "@nrwl/cypress:cypress",
+					"options": {
+						"cypressConfig": "apps/minesweeper-e2e/cypress.json",
+						"tsConfig": "apps/minesweeper-e2e/tsconfig.e2e.json",
+						"devServerTarget": "minesweeper:serve"
 					},
 					"configurations": {
 						"production": {
-							"devServerTarget": "angular-minesweeper:serve:production"
+							"devServerTarget": "minesweeper:serve:production"
 						}
+					}
+				},
+				"lint": {
+					"builder": "@angular-devkit/build-angular:tslint",
+					"options": {
+						"tsConfig": ["apps/minesweeper-e2e/tsconfig.e2e.json"],
+						"exclude": ["**/node_modules/**", "!apps/minesweeper-e2e/**/*"]
 					}
 				}
 			}
 		}
 	},
-	"defaultProject": "angular-minesweeper",
 	"cli": {
+		"defaultCollection": "@nrwl/angular",
 		"analytics": false
-	}
+	},
+	"schematics": {
+		"@nrwl/workspace": {
+			"library": {
+				"linter": "tslint"
+			}
+		},
+		"@nrwl/cypress": {
+			"cypress-project": {
+				"linter": "tslint"
+			}
+		},
+		"@nrwl/node": {
+			"application": {
+				"linter": "tslint"
+			},
+			"library": {
+				"linter": "tslint"
+			}
+		},
+		"@nrwl/nest": {
+			"application": {
+				"linter": "tslint"
+			},
+			"library": {
+				"linter": "tslint"
+			}
+		},
+		"@nrwl/express": {
+			"application": {
+				"linter": "tslint"
+			},
+			"library": {
+				"linter": "tslint"
+			}
+		},
+		"@nrwl/angular:application": {
+			"unitTestRunner": "jest",
+			"e2eTestRunner": "cypress"
+		},
+		"@nrwl/angular:library": {
+			"unitTestRunner": "jest"
+		}
+	},
+	"defaultProject": "minesweeper"
 }

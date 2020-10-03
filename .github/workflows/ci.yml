@@ -22,26 +22,60 @@ jobs:
         uses: actions/cache@v2
         with:
           path: node_modules
-          key: ${{ runner.os }}-${{ hashFiles('**/package-lock.json') }}
+          key: ${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v2-beta
         with:
           node-version: ${{ matrix.node-version }}
       - name: Install packages
         if: steps.cache-packages.outputs.cache-hit != 'true'
-        run: npm ci
+        run: yarn install --frozen-lockfile
       - name: Lint
-        run: npm run lint
+        run: yarn lint
       - name: Lint css stylesheets
-        run: npm run lint:css
+        run: yarn lint:css
       - name: Lint eslint
-        run: npm run lint:es
+        run: yarn lint:es
       - name: Lint tslint
-        run: npm run lint:ts
+        run: yarn lint:ts
       - name: Lint markdown
-        run: npm run lint:md
+        run: yarn lint:md
       - name: Lint format
-        run: npm run lint:format
+        run: yarn lint:format
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [12.x, 14.x]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+      - name: Cache
+        id: cache-packages
+        uses: actions/cache@v2
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Install packages
+        if: steps.cache-packages.outputs.cache-hit != 'true'
+        run: yarn install --frozen-lockfile
+      - name: Test
+        run: yarn test:skip-cache
+      - name: Upload coverage result to codacy
+        run: |
+          export CODACY_PROJECT_TOKEN=${{ secrets.CODACY_PROJECT_TOKEN }}
+          bash <(curl -Ls https://coverage.codacy.com/get.sh) \
+          -- -r coverage/**/*coverage.xml
+      - name: Upload coverage result to codecov
+        run: |
+          bash <(curl -s https://codecov.io/bash) \
+          -t ${{ secrets.CODECOV_TOKEN }}
   build:
     runs-on: ubuntu-latest
     strategy:
@@ -57,16 +91,16 @@ jobs:
         uses: actions/cache@v2
         with:
           path: node_modules
-          key: ${{ runner.os }}-${{ hashFiles('**/package-lock.json') }}
+          key: ${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v2-beta
         with:
           node-version: ${{ matrix.node-version }}
       - name: Install packages
         if: steps.cache-packages.outputs.cache-hit != 'true'
-        run: npm ci
+        run: yarn install --frozen-lockfile
       - name: Build
-        run: npm run build
+        run: yarn build
   deploy:
     if: github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
@@ -84,13 +118,13 @@ jobs:
         uses: actions/cache@v2
         with:
           path: node_modules
-          key: ${{ runner.os }}-${{ hashFiles('**/package-lock.json') }}
+          key: ${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v2-beta
         with:
           node-version: ${{ matrix.node-version }}
       - name: Build
-        run: npm run build
+        run: yarn build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
