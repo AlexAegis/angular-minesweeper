@@ -249,7 +249,7 @@
           "issuerPath": null,
           "profile": {
             "factory": 0,
-            "building": 3
+            "building": 2
           },
           "failed": false,
           "errors": 0,
@@ -331,13 +331,13 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 }
               ],
               "profile": {
-                "factory": 2553,
-                "building": 41
+                "factory": 2237,
+                "building": 33
               },
               "failed": false,
               "errors": 0,
@@ -384,7 +384,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -392,15 +392,15 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 }
               ],
               "profile": {
-                "factory": 5531,
-                "building": 528,
-                "dependencies": 5960
+                "factory": 4658,
+                "building": 450,
+                "dependencies": 5027
               },
               "failed": false,
               "errors": 0,
@@ -3752,7 +3752,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -3760,15 +3760,15 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 }
               ],
               "profile": {
-                "factory": 5531,
-                "building": 528,
-                "dependencies": 5960
+                "factory": 4658,
+                "building": 450,
+                "dependencies": 5027
               },
               "failed": false,
               "errors": 0,
@@ -3826,7 +3826,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -3834,15 +3834,15 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 }
               ],
               "profile": {
-                "factory": 5531,
-                "building": 528,
-                "dependencies": 5960
+                "factory": 4658,
+                "building": 450,
+                "dependencies": 5027
               },
               "failed": false,
               "errors": 0,
@@ -3974,7 +3974,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -3982,15 +3982,15 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 }
               ],
               "profile": {
-                "factory": 5531,
-                "building": 528,
-                "dependencies": 5960
+                "factory": 4658,
+                "building": 450,
+                "dependencies": 5027
               },
               "failed": false,
               "errors": 0,
@@ -4048,7 +4048,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -4056,8 +4056,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -4065,16 +4065,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/platform-browser.js",
                   "name": "./node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/platform-browser.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 }
               ],
               "profile": {
-                "factory": 1177,
-                "building": 790,
-                "dependencies": 3
+                "factory": 973,
+                "building": 628,
+                "dependencies": 2
               },
               "failed": false,
               "errors": 0,
@@ -4544,7 +4544,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -4552,8 +4552,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -4561,16 +4561,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/app/app.module.ts",
                   "name": "./src/app/app.module.ts",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 }
               ],
               "profile": {
-                "factory": 5960,
-                "building": 18,
-                "dependencies": 5390
+                "factory": 5027,
+                "building": 17,
+                "dependencies": 4541
               },
               "failed": false,
               "errors": 0,
@@ -4628,7 +4628,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -4636,8 +4636,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -4645,9 +4645,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -4655,16 +4655,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 1032,
-                "building": 6,
-                "dependencies": 2369
+                "factory": 859,
+                "building": 5,
+                "dependencies": 1940
               },
               "failed": false,
               "errors": 0,
@@ -4848,7 +4848,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -4856,8 +4856,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -4865,9 +4865,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -4875,16 +4875,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 1032,
-                "building": 6,
-                "dependencies": 2369
+                "factory": 859,
+                "building": 5,
+                "dependencies": 1940
               },
               "failed": false,
               "errors": 0,
@@ -4987,7 +4987,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -4995,8 +4995,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -5004,9 +5004,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -5014,16 +5014,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 1032,
-                "building": 6,
-                "dependencies": 2369
+                "factory": 859,
+                "building": 5,
+                "dependencies": 1940
               },
               "failed": false,
               "errors": 0,
@@ -5442,7 +5442,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -5450,8 +5450,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -5459,9 +5459,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -5469,16 +5469,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 1032,
-                "building": 6,
-                "dependencies": 2369
+                "factory": 859,
+                "building": 5,
+                "dependencies": 1940
               },
               "failed": false,
               "errors": 0,
@@ -6464,7 +6464,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -6472,8 +6472,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -6481,9 +6481,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -6491,16 +6491,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 1032,
-                "building": 6,
-                "dependencies": 2369
+                "factory": 859,
+                "building": 5,
+                "dependencies": 1940
               },
               "failed": false,
               "errors": 0,
@@ -6648,7 +6648,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -6656,8 +6656,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -6665,9 +6665,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -6675,16 +6675,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 1032,
-                "building": 6,
-                "dependencies": 2369
+                "factory": 859,
+                "building": 5,
+                "dependencies": 1940
               },
               "failed": false,
               "errors": 0,
@@ -6859,7 +6859,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -6867,8 +6867,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -6876,9 +6876,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -6886,16 +6886,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 1032,
-                "building": 6,
-                "dependencies": 2369
+                "factory": 859,
+                "building": 5,
+                "dependencies": 1940
               },
               "failed": false,
               "errors": 0,
@@ -6999,7 +6999,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -7007,8 +7007,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -7016,9 +7016,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -7026,16 +7026,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 1032,
-                "building": 6,
-                "dependencies": 2369
+                "factory": 859,
+                "building": 5,
+                "dependencies": 1940
               },
               "failed": false,
               "errors": 0,
@@ -7743,7 +7743,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -7751,8 +7751,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -7760,9 +7760,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -7770,16 +7770,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 1032,
-                "building": 6,
-                "dependencies": 2369
+                "factory": 859,
+                "building": 5,
+                "dependencies": 1940
               },
               "failed": false,
               "errors": 0,
@@ -7927,7 +7927,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -7935,8 +7935,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -7944,9 +7944,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -7954,16 +7954,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 1032,
-                "building": 6,
-                "dependencies": 2369
+                "factory": 859,
+                "building": 5,
+                "dependencies": 1940
               },
               "failed": false,
               "errors": 0,
@@ -8313,7 +8313,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -8321,8 +8321,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -8330,9 +8330,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -8340,16 +8340,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/operators/index.js",
                   "name": "./node_modules/rxjs/_esm2015/operators/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 3923,
-                "building": 4,
-                "dependencies": 855
+                "factory": 3294,
+                "building": 3,
+                "dependencies": 693
               },
               "failed": false,
               "errors": 0,
@@ -8606,7 +8606,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -8614,8 +8614,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -8623,9 +8623,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -8633,16 +8633,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 1032,
-                "building": 6,
-                "dependencies": 2369
+                "factory": 859,
+                "building": 5,
+                "dependencies": 1940
               },
               "failed": false,
               "errors": 0,
@@ -8718,7 +8718,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -8726,8 +8726,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -8735,9 +8735,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -8745,16 +8745,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 1032,
-                "building": 6,
-                "dependencies": 2369
+                "factory": 859,
+                "building": 5,
+                "dependencies": 1940
               },
               "failed": false,
               "errors": 0,
@@ -8974,7 +8974,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -8982,8 +8982,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -8991,9 +8991,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -9001,16 +9001,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/operators/index.js",
                   "name": "./node_modules/rxjs/_esm2015/operators/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 3923,
-                "building": 4,
-                "dependencies": 855
+                "factory": 3294,
+                "building": 3,
+                "dependencies": 693
               },
               "failed": false,
               "errors": 0,
@@ -9143,7 +9143,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -9151,8 +9151,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -9160,9 +9160,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -9170,16 +9170,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/operators/index.js",
                   "name": "./node_modules/rxjs/_esm2015/operators/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 3923,
-                "building": 4,
-                "dependencies": 855
+                "factory": 3294,
+                "building": 3,
+                "dependencies": 693
               },
               "failed": false,
               "errors": 0,
@@ -9273,7 +9273,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -9281,8 +9281,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -9290,9 +9290,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -9300,16 +9300,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 1032,
-                "building": 6,
-                "dependencies": 2369
+                "factory": 859,
+                "building": 5,
+                "dependencies": 1940
               },
               "failed": false,
               "errors": 0,
@@ -9395,7 +9395,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -9403,8 +9403,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -9412,9 +9412,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -9422,9 +9422,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -9432,16 +9432,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/observable/ConnectableObservable.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/observable/ConnectableObservable.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 2169,
-                "building": 43,
-                "dependencies": 3
+                "factory": 1776,
+                "building": 20,
+                "dependencies": 1
               },
               "failed": false,
               "errors": 0,
@@ -9535,7 +9535,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -9543,8 +9543,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -9552,9 +9552,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -9562,16 +9562,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 1032,
-                "building": 6,
-                "dependencies": 2369
+                "factory": 859,
+                "building": 5,
+                "dependencies": 1940
               },
               "failed": false,
               "errors": 0,
@@ -9648,7 +9648,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -9656,8 +9656,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -9665,9 +9665,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -9675,16 +9675,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/operators/index.js",
                   "name": "./node_modules/rxjs/_esm2015/operators/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 3923,
-                "building": 4,
-                "dependencies": 855
+                "factory": 3294,
+                "building": 3,
+                "dependencies": 693
               },
               "failed": false,
               "errors": 0,
@@ -9842,7 +9842,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -9850,8 +9850,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -9859,9 +9859,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -9869,16 +9869,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/operators/index.js",
                   "name": "./node_modules/rxjs/_esm2015/operators/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 }
               ],
               "profile": {
-                "factory": 3923,
-                "building": 4,
-                "dependencies": 855
+                "factory": 3294,
+                "building": 3,
+                "dependencies": 693
               },
               "failed": false,
               "errors": 0,
@@ -9946,7 +9946,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -9954,8 +9954,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -9963,9 +9963,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -9973,9 +9973,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -9983,16 +9983,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/Subscriber.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/Subscriber.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 2705,
+                "factory": 2206,
                 "building": 3,
-                "dependencies": 2
+                "dependencies": 10
               },
               "failed": false,
               "errors": 0,
@@ -10131,7 +10131,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -10139,8 +10139,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -10148,9 +10148,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -10158,9 +10158,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -10168,16 +10168,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/Subscriber.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/Subscriber.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 2705,
+                "factory": 2206,
                 "building": 3,
-                "dependencies": 2
+                "dependencies": 10
               },
               "failed": false,
               "errors": 0,
@@ -10298,7 +10298,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -10306,8 +10306,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -10315,9 +10315,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -10325,9 +10325,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -10335,16 +10335,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/Subscriber.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/Subscriber.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 2705,
+                "factory": 2206,
                 "building": 3,
-                "dependencies": 2
+                "dependencies": 10
               },
               "failed": false,
               "errors": 0,
@@ -10438,7 +10438,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -10446,8 +10446,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -10455,9 +10455,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -10465,9 +10465,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -10475,14 +10475,14 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/Subscription.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/Subscription.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 2365,
+                "factory": 1937,
                 "building": 3
               },
               "failed": false,
@@ -10793,7 +10793,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -10801,8 +10801,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -10810,9 +10810,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -10820,9 +10820,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -10830,14 +10830,14 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/observable/forkJoin.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/observable/forkJoin.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 2087,
+                "factory": 1694,
                 "building": 2
               },
               "failed": false,
@@ -10932,7 +10932,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -10940,8 +10940,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -10949,9 +10949,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -10959,9 +10959,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -10969,15 +10969,15 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/Subject.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/Subject.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 2369,
-                "building": 6
+                "factory": 1940,
+                "building": 5
               },
               "failed": false,
               "errors": 0,
@@ -11081,7 +11081,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -11089,8 +11089,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -11098,9 +11098,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -11108,9 +11108,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -11118,16 +11118,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/Observable.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/Observable.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 2962,
-                "building": 4,
-                "dependencies": 4
+                "factory": 2406,
+                "building": 3,
+                "dependencies": 3
               },
               "failed": false,
               "errors": 0,
@@ -11221,7 +11221,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -11229,8 +11229,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -11238,9 +11238,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -11248,9 +11248,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -11258,16 +11258,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/Observable.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/Observable.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 2962,
-                "building": 4,
-                "dependencies": 4
+                "factory": 2406,
+                "building": 3,
+                "dependencies": 3
               },
               "failed": false,
               "errors": 0,
@@ -11325,7 +11325,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -11333,8 +11333,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -11342,9 +11342,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -11352,9 +11352,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -11362,15 +11362,15 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/ReplaySubject.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/ReplaySubject.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 2854,
-                "building": 17,
+                "factory": 2325,
+                "building": 14,
                 "dependencies": 2
               },
               "failed": false,
@@ -11447,7 +11447,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -11455,8 +11455,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -11464,9 +11464,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -11474,9 +11474,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -11484,14 +11484,14 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/observable/bindCallback.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/observable/bindCallback.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 2184,
+                "factory": 1769,
                 "building": 2
               },
               "failed": false,
@@ -11739,7 +11739,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -11747,8 +11747,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -11756,9 +11756,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -11766,9 +11766,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -11776,16 +11776,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/observable/zip.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/observable/zip.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 1897,
-                "building": 4,
-                "dependencies": 8
+                "factory": 1525,
+                "building": 2,
+                "dependencies": 7
               },
               "failed": false,
               "errors": 0,
@@ -11944,7 +11944,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -11952,8 +11952,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -11961,9 +11961,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -11971,9 +11971,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -11981,15 +11981,15 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 1986,
-                "building": 19,
+                "factory": 1583,
+                "building": 4,
                 "dependencies": 12
               },
               "failed": false,
@@ -12066,7 +12066,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -12074,8 +12074,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -12083,9 +12083,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -12093,9 +12093,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -12103,15 +12103,15 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 1986,
-                "building": 19,
+                "factory": 1583,
+                "building": 4,
                 "dependencies": 12
               },
               "failed": false,
@@ -12188,7 +12188,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -12196,8 +12196,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -12205,9 +12205,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -12215,9 +12215,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -12225,16 +12225,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/observable/from.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/observable/from.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 2069,
-                "building": 8,
-                "dependencies": 1080
+                "factory": 1668,
+                "building": 18,
+                "dependencies": 971
               },
               "failed": false,
               "errors": 0,
@@ -12355,7 +12355,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -12363,8 +12363,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -12372,9 +12372,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -12382,9 +12382,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -12392,15 +12392,15 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 1986,
-                "building": 19,
+                "factory": 1583,
+                "building": 4,
                 "dependencies": 12
               },
               "failed": false,
@@ -12459,7 +12459,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -12467,8 +12467,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -12476,9 +12476,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -12486,9 +12486,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -12496,15 +12496,15 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 1986,
-                "building": 19,
+                "factory": 1583,
+                "building": 4,
                 "dependencies": 12
               },
               "failed": false,
@@ -12563,7 +12563,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -12571,8 +12571,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -12580,9 +12580,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -12590,9 +12590,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -12600,15 +12600,15 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/observable/of.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/observable/of.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 1963,
-                "building": 13,
+                "factory": 1584,
+                "building": 3,
                 "dependencies": 3
               },
               "failed": false,
@@ -12703,7 +12703,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -12711,8 +12711,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -12720,9 +12720,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -12730,9 +12730,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -12740,15 +12740,15 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 1986,
-                "building": 19,
+                "factory": 1583,
+                "building": 4,
                 "dependencies": 12
               },
               "failed": false,
@@ -12807,7 +12807,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -12815,8 +12815,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -12824,9 +12824,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -12834,9 +12834,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -12844,15 +12844,15 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 1986,
-                "building": 19,
+                "factory": 1583,
+                "building": 4,
                 "dependencies": 12
               },
               "failed": false,
@@ -12911,7 +12911,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -12919,8 +12919,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -12928,9 +12928,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -12938,9 +12938,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -12948,15 +12948,15 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 1986,
-                "building": 19,
+                "factory": 1583,
+                "building": 4,
                 "dependencies": 12
               },
               "failed": false,
@@ -13015,7 +13015,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -13023,8 +13023,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -13032,9 +13032,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -13042,9 +13042,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -13052,16 +13052,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/observable/zip.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/observable/zip.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 1897,
-                "building": 4,
-                "dependencies": 8
+                "factory": 1525,
+                "building": 2,
+                "dependencies": 7
               },
               "failed": false,
               "errors": 0,
@@ -13899,7 +13899,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -13907,8 +13907,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -13916,9 +13916,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -13926,9 +13926,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -13936,16 +13936,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/observable/combineLatest.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/observable/combineLatest.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 }
               ],
               "profile": {
-                "factory": 2181,
-                "building": 3,
-                "dependencies": 36
+                "factory": 1756,
+                "building": 5,
+                "dependencies": 39
               },
               "failed": false,
               "errors": 0,
@@ -14075,7 +14075,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -14083,8 +14083,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -14092,9 +14092,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -14102,9 +14102,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -14112,9 +14112,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/observable/combineLatest.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/observable/combineLatest.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 },
                 {
@@ -14122,14 +14122,14 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/observable/fromArray.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/observable/fromArray.js",
                   "profile": {
-                    "factory": 2181,
-                    "building": 3,
-                    "dependencies": 36
+                    "factory": 1756,
+                    "building": 5,
+                    "dependencies": 39
                   }
                 }
               ],
               "profile": {
-                "factory": 1088,
+                "factory": 992,
                 "building": 4
               },
               "failed": false,
@@ -14206,7 +14206,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -14214,8 +14214,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -14223,9 +14223,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -14233,9 +14233,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -14243,9 +14243,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/observable/from.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/observable/from.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 },
                 {
@@ -14253,16 +14253,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/util/subscribeTo.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/util/subscribeTo.js",
                   "profile": {
-                    "factory": 2069,
-                    "building": 8,
-                    "dependencies": 1080
+                    "factory": 1668,
+                    "building": 18,
+                    "dependencies": 971
                   }
                 }
               ],
               "profile": {
-                "factory": 1112,
+                "factory": 1008,
                 "building": 3,
-                "dependencies": 1
+                "dependencies": 2
               },
               "failed": false,
               "errors": 0,
@@ -14320,7 +14320,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -14328,8 +14328,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -14337,9 +14337,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -14347,9 +14347,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -14357,9 +14357,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/observable/from.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/observable/from.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 },
                 {
@@ -14367,16 +14367,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/util/subscribeTo.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/util/subscribeTo.js",
                   "profile": {
-                    "factory": 2069,
-                    "building": 8,
-                    "dependencies": 1080
+                    "factory": 1668,
+                    "building": 18,
+                    "dependencies": 971
                   }
                 }
               ],
               "profile": {
-                "factory": 1112,
+                "factory": 1008,
                 "building": 3,
-                "dependencies": 1
+                "dependencies": 2
               },
               "failed": false,
               "errors": 0,
@@ -14434,7 +14434,7 @@
                   "name": "multi ./src/main.ts",
                   "profile": {
                     "factory": 0,
-                    "building": 3
+                    "building": 2
                   }
                 },
                 {
@@ -14442,8 +14442,8 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 2553,
-                    "building": 41
+                    "factory": 2237,
+                    "building": 33
                   }
                 },
                 {
@@ -14451,9 +14451,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
                   "profile": {
-                    "factory": 5531,
-                    "building": 528,
-                    "dependencies": 5960
+                    "factory": 4658,
+                    "building": 450,
+                    "dependencies": 5027
                   }
                 },
                 {
@@ -14461,9 +14461,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/index.js",
                   "name": "./node_modules/rxjs/_esm2015/index.js",
                   "profile": {
-                    "factory": 708,
-                    "building": 27,
-                    "dependencies": 3046
+                    "factory": 602,
+                    "building": 18,
+                    "dependencies": 2468
                   }
                 },
                 {
@@ -14471,9 +14471,9 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/observable/from.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/observable/from.js",
                   "profile": {
-                    "factory": 1032,
-                    "building": 6,
-                    "dependencies": 2369
+                    "factory": 859,
+                    "building": 5,
+                    "dependencies": 1940
                   }
                 },
                 {
@@ -14481,16 +14481,16 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/rxjs/_esm2015/internal/util/subscribeTo.js",
                   "name": "./node_modules/rxjs/_esm2015/internal/util/subscribeTo.js",
                   "profile": {
-                    "factory": 2069,
-                    "building": 8,
-                    "dependencies": 1080
+                    "factory": 1668,
+                    "building": 18,
+                    "dependencies": 971
                   }
                 }
               ],
               "profile": {
-                "factory": 1112,
+                "factory": 1008,
                 "building": 3,
-                "dependencies": 1
+                "dependencies": 2
               },
               "failed": false,
               "errors": 0,
@@ -14552,7 +14552,7 @@
               "name": "multi ./src/main.ts",
               "profile": {
                 "factory": 0,
-                "building": 3
+                "building": 2
               }
             },
             {
@@ -14560,8 +14560,8 @@
               "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 2553,
-                "building": 41
+                "factory": 2237,
+                "building": 33
               }
             },
             {
@@ -14569,16 +14569,16 @@
               "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--7-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
               "name": "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js",
               "profile": {
-                "factory": 5531,
-                "building": 528,
-                "dependencies": 5960
+                "factory": 4658,
+                "building": 450,
+                "dependencies": 5027
               }
             }
           ],
           "profile": {
-            "factory": 708,
-            "building": 27,
-            "dependencies": 3046
+            "factory": 602,
+            "building": 18,
+            "dependencies": 2468
           },
           "failed": false,
           "errors": 0,
@@ -14714,8 +14714,8 @@
             }
           ],
           "profile": {
-            "factory": 2554,
-            "building": 80
+            "factory": 2236,
+            "building": 65
           },
           "failed": false,
           "errors": 0,
@@ -14772,14 +14772,14 @@
               "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@angular-devkit/build-optimizer/src/build-optimizer/webpack-loader.js??ref--16-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/@ngtools/webpack/src/index.js!/home/runner/work/angular-minesweeper/angular-minesweeper/src/polyfills.ts",
               "name": "./src/polyfills.ts",
               "profile": {
-                "factory": 2554,
-                "building": 80
+                "factory": 2236,
+                "building": 65
               }
             }
           ],
           "profile": {
-            "factory": 6033,
-            "building": 62
+            "factory": 5087,
+            "building": 49
           },
           "failed": false,
           "errors": 0,
@@ -14909,8 +14909,8 @@
               "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/mini-css-extract-plugin/dist/loader.js??ref--12-0!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/css-loader/dist/cjs.js??ref--12-1!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/postcss-loader/src/index.js??extracted!/home/runner/work/angular-minesweeper/angular-minesweeper/src/styles.css",
               "name": "./src/styles.css",
               "profile": {
-                "factory": 44,
-                "building": 2594
+                "factory": 33,
+                "building": 2271
               }
             }
           ],
@@ -14966,8 +14966,8 @@
             }
           ],
           "profile": {
-            "factory": 44,
-            "building": 2594
+            "factory": 33,
+            "building": 2271
           },
           "failed": false,
           "errors": 0,
@@ -15011,11 +15011,11 @@
       "entries": [
         {
           "type": "time",
-          "message": "prepare: 2.292719ms"
+          "message": "prepare: 2.353003ms"
         },
         {
           "type": "time",
-          "message": "visiting: 0.310803ms"
+          "message": "visiting: 0.3139ms"
         }
       ],
       "filteredEntries": 0,
@@ -15106,14 +15106,14 @@
                   "identifier": "/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/css-loader/dist/cjs.js??ref--12-1!/home/runner/work/angular-minesweeper/angular-minesweeper/node_modules/postcss-loader/src/index.js??extracted!/home/runner/work/angular-minesweeper/angular-minesweeper/src/styles.css",
                   "name": "./node_modules/css-loader/dist/cjs.js??ref--12-1!./node_modules/postcss-loader/src??extracted!./src/styles.css",
                   "profile": {
-                    "factory": 5,
-                    "building": 134
+                    "factory": 3,
+                    "building": 106
                   }
                 }
               ],
               "profile": {
-                "factory": 2356,
-                "building": 13
+                "factory": 2083,
+                "building": 10
               },
               "failed": false,
               "errors": 0,
@@ -15168,8 +15168,8 @@
               "issuerName": null,
               "issuerPath": null,
               "profile": {
-                "factory": 5,
-                "building": 134
+                "factory": 3,
+                "building": 106
               },
               "failed": false,
               "errors": 0,
@@ -15215,11 +15215,11 @@
           "entries": [
             {
               "type": "time",
-              "message": "prepare: 0.100001ms"
+              "message": "prepare: 0.0867ms"
             },
             {
               "type": "time",
-              "message": "visiting: 0.089301ms"
+              "message": "visiting: 0.0721ms"
             }
           ],
           "filteredEntries": 0,
