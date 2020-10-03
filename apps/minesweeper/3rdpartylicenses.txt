@@ -7,6 +7,9 @@ MIT
 @angular/platform-browser
 MIT
 
+angular-minesweeper
+mit
+
 css-loader
 MIT
 Copyright JS Foundation and other contributors
