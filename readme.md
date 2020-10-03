@@ -1,4 +1,4 @@
-# Angular Minesweeper
+# [Angular Minesweeper](https://alexaegis.github.io/angular-minesweeper/)
 
 <!-- markdownlint-disable MD013 -->
 
