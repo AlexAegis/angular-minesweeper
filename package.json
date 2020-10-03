@@ -2,7 +2,7 @@
 	"name": "angular-minesweeper",
 	"displayName": "Angular Minesweeper",
 	"description": "Angular Minesweeper",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"license": "mit",
 	"private": true,
 	"author": {
@@ -13,7 +13,7 @@
 	"homepage": "https://github.com/AlexAegis/angular-minesweeper",
 	"bugs": {
 		"email": "alexaegis@gmail.com",
-		"url": "https://github.com/AlexAegis/angular-sandbox/issues"
+		"url": "https://github.com/AlexAegis/angular-minesweeper/issues"
 	},
 	"keywords": [
 		"ng",
@@ -66,7 +66,7 @@
 		"workspace-schematic": "nx workspace-schematic",
 		"dep-graph": "nx dep-graph",
 		"help": "nx help",
-		"postinstall": "ngcc --properties es2015 browser module main --first-only --create-ivy-entry-points --tsconfig tsconfig.base.json",
+		"postinstall": "ngcc --properties es2015 browser module main --first-only --create-ivy-entry-points --tsconfig tsconfig.json",
 		"release": "standard-version",
 		"prepublishOnly": "yarn build"
 	},
@@ -116,6 +116,7 @@
 		"lint-staged": "^10.4.0",
 		"markdownlint": "^0.21.0",
 		"markdownlint-cli": "^0.24.0",
+		"ng-packagr": "^10.1.0",
 		"npm-check-updates": "^9.0.3",
 		"nyc": "^15.1.0",
 		"prettier": "^2.1.2",
@@ -136,6 +137,7 @@
 		"typedoc-plugin-external-module-name": "~4.0.3",
 		"typescript": "~4.0.3",
 		"webpack-bundle-analyzer": "^3.9.0",
-		"yaml-lint": "^1.2.4"
+		"yaml-lint": "^1.2.4",
+		"@types/jest": "26.0.8"
 	}
 }

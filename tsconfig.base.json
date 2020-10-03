@@ -1,0 +1,28 @@
+{
+	"compileOnSave": false,
+	"compilerOptions": {
+		"baseUrl": "./",
+		"rootDir": "./",
+		"outDir": "./dist/out-tsc",
+		"sourceMap": true,
+		"declaration": false,
+		"downlevelIteration": true,
+		"experimentalDecorators": true,
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"importHelpers": true,
+		"target": "es2015",
+		"module": "es2020",
+		"skipLibCheck": true,
+		"skipDefaultLibCheck": true,
+		"lib": ["es2018", "dom"],
+		"paths": {
+			"@alexaegis/ng-minesweeper": ["libs/ng-minesweeper/src/index.ts"],
+			"@alexaegis/reactive-minesweeper": ["libs/reactive-minesweeper/src/index.ts"],
+			"@alexaegis/reactive-minesweeper-engine": [
+				"libs/reactive-minesweeper-engine/src/index.ts"
+			]
+		}
+	},
+	"exclude": ["node_modules", "tmp"]
+}

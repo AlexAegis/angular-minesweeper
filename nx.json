@@ -17,17 +17,27 @@
 		"default": {
 			"runner": "@nrwl/workspace/tasks-runners/default",
 			"options": {
-				"cacheableOperations": ["build", "lint", "test", "e2e"]
+				"cacheableOperations": ["build", "lint", "test", "e2e"],
+				"runtimeCacheInputs": ["node -v"],
+				"cacheDirectory": ".cache/nx"
 			}
 		}
 	},
 	"projects": {
 		"minesweeper": {
-			"tags": []
+			"tags": [],
+			"implicitDependencies": ["ng-minesweeper"]
 		},
 		"minesweeper-e2e": {
 			"tags": [],
 			"implicitDependencies": ["minesweeper"]
+		},
+		"ng-minesweeper": {
+			"tags": [],
+			"implicitDependencies": ["reactive-minesweeper-engine"]
+		},
+		"reactive-minesweeper-engine": {
+			"tags": []
 		}
 	}
 }

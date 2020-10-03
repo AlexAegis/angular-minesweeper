@@ -1,0 +1,33 @@
+{
+	"name": "@alexaegis/reactive-minesweeper-engine",
+	"version": "0.0.1",
+	"displayName": "Reactive Minesweeper Engine",
+	"description": "Reactive Minesweeper Engine",
+	"license": "mit",
+	"private": true,
+	"author": {
+		"name": "Alex Aegis",
+		"email": "alexaegis@gmail.com",
+		"url": "https://github.com/AlexAegis"
+	},
+	"homepage": "https://github.com/AlexAegis/angular-minesweeper",
+	"bugs": {
+		"email": "alexaegis@gmail.com",
+		"url": "https://github.com/AlexAegis/angular-minesweeper/issues"
+	},
+	"keywords": [
+		"ng",
+		"angular",
+		"nx",
+		"minesweeper",
+		"rxjs",
+		"reactive",
+		"ts",
+		"typescript",
+		"js",
+		"javascript"
+	],
+	"dependencies": {
+		"rxjs": "~6.6.3"
+	}
+}

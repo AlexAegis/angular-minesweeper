@@ -123,6 +123,79 @@
 					}
 				}
 			}
+		},
+		"ng-minesweeper": {
+			"projectType": "library",
+			"root": "libs/ng-minesweeper",
+			"sourceRoot": "libs/ng-minesweeper/src",
+			"prefix": "mine",
+			"architect": {
+				"build": {
+					"builder": "@nrwl/angular:package",
+					"options": {
+						"tsConfig": "libs/ng-minesweeper/tsconfig.lib.json",
+						"project": "libs/ng-minesweeper/ng-package.json"
+					},
+					"configurations": {
+						"production": {
+							"tsConfig": "libs/ng-minesweeper/tsconfig.lib.prod.json"
+						}
+					}
+				},
+				"lint": {
+					"builder": "@angular-devkit/build-angular:tslint",
+					"options": {
+						"tsConfig": [
+							"libs/ng-minesweeper/tsconfig.lib.json",
+							"libs/ng-minesweeper/tsconfig.spec.json"
+						],
+						"exclude": ["**/node_modules/**", "!libs/ng-minesweeper/**/*"]
+					}
+				},
+				"test": {
+					"builder": "@nrwl/jest:jest",
+					"options": {
+						"jestConfig": "libs/ng-minesweeper/jest.config.js",
+						"passWithNoTests": true
+					}
+				}
+			},
+			"schematics": {}
+		},
+		"reactive-minesweeper-engine": {
+			"root": "libs/reactive-minesweeper-engine",
+			"sourceRoot": "libs/reactive-minesweeper-engine/src",
+			"projectType": "library",
+			"schematics": {},
+			"architect": {
+				"lint": {
+					"builder": "@angular-devkit/build-angular:tslint",
+					"options": {
+						"tsConfig": [
+							"libs/reactive-minesweeper-engine/tsconfig.lib.json",
+							"libs/reactive-minesweeper-engine/tsconfig.spec.json"
+						],
+						"exclude": ["**/node_modules/**", "!libs/reactive-minesweeper-engine/**/*"]
+					}
+				},
+				"test": {
+					"builder": "@nrwl/jest:jest",
+					"options": {
+						"jestConfig": "libs/reactive-minesweeper-engine/jest.config.js",
+						"passWithNoTests": true
+					}
+				},
+				"build": {
+					"builder": "@nrwl/node:package",
+					"options": {
+						"outputPath": "dist/libs/reactive-minesweeper-engine",
+						"tsConfig": "libs/reactive-minesweeper-engine/tsconfig.lib.json",
+						"packageJson": "libs/reactive-minesweeper-engine/package.json",
+						"main": "libs/reactive-minesweeper-engine/src/index.ts",
+						"assets": ["libs/reactive-minesweeper-engine/*.md"]
+					}
+				}
+			}
 		}
 	},
 	"cli": {
@@ -169,7 +242,8 @@
 			"e2eTestRunner": "cypress"
 		},
 		"@nrwl/angular:library": {
-			"unitTestRunner": "jest"
+			"unitTestRunner": "jest",
+			"strict": true
 		}
 	},
 	"defaultProject": "minesweeper"
