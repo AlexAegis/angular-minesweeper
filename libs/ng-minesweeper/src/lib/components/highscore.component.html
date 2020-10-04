@@ -1,0 +1,26 @@
+<ol *ngIf="storeService.winHistory$ | async as winHistory; else elseTemplate">
+	<li *ngFor="let win of winHistory; trackBy: win?.id">
+		<ng-container *ngIf="storeService.isTheSamePreset(win, storeService.presets.beginner)">
+			Beginner: {{ win.time }}s
+		</ng-container>
+
+		<ng-container *ngIf="storeService.isTheSamePreset(win, storeService.presets.intermediate)">
+			Intermediate: {{ win.time }}s
+		</ng-container>
+
+		<ng-container *ngIf="storeService.isTheSamePreset(win, storeService.presets.expert)">
+			Expert: {{ win.time }}s
+		</ng-container>
+
+		<ng-container
+			*ngIf="
+				!storeService.isTheSamePreset(win, storeService.presets.beginner) &&
+				!storeService.isTheSamePreset(win, storeService.presets.intermediate) &&
+				!storeService.isTheSamePreset(win, storeService.presets.expert)
+			"
+		>
+			Custom: {{ win.time }}s ({{ win.height }} * {{ win.width }}, {{ win.mineCount }} mines)
+		</ng-container>
+	</li>
+</ol>
+<ng-template #elseTemplate> No games played yet! </ng-template>

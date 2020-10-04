@@ -1,6 +1,32 @@
 {
 	"name": "@alexaegis/ng-minesweeper",
 	"version": "0.0.1",
+	"displayName": "Angular Minesweeper",
+	"description": "Angular Minesweeper",
+	"license": "mit",
+	"private": true,
+	"author": {
+		"name": "Alex Aegis",
+		"email": "alexaegis@gmail.com",
+		"url": "https://github.com/AlexAegis"
+	},
+	"homepage": "https://github.com/AlexAegis/angular-minesweeper",
+	"bugs": {
+		"email": "alexaegis@gmail.com",
+		"url": "https://github.com/AlexAegis/angular-minesweeper/issues"
+	},
+	"keywords": [
+		"ng",
+		"angular",
+		"nx",
+		"minesweeper",
+		"rxjs",
+		"reactive",
+		"ts",
+		"typescript",
+		"js",
+		"javascript"
+	],
 	"peerDependencies": {
 		"@angular/common": "^10.1.4",
 		"@angular/core": "^10.1.4"

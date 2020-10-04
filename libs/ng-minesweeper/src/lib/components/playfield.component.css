@@ -1,0 +1,6 @@
+div {
+	display: grid;
+	width: fit-content;
+	height: fit-content;
+	margin: auto;
+}

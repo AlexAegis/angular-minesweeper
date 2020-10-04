@@ -1,0 +1,43 @@
+<span
+	style="grid-column: 2; grid-row: 1"
+	[ngClass]="{ on: lastDigit === 0 || lastDigit === 2 || lastDigit === 3 || lastDigit >= 5 }"
+	class="segment-horizontal segment-top off"
+></span>
+<span
+	style="grid-column: 1; grid-row: 2"
+	[ngClass]="{
+		on:
+			lastDigit === 0 ||
+			(lastDigit >= 4 && lastDigit <= 6) ||
+			lastDigit >= 8 ||
+			lastDigit === 9
+	}"
+	class="segment-vertical segment-left off"
+></span>
+<span
+	style="grid-column: 3; grid-row: 2"
+	[ngClass]="{ on: lastDigit <= 4 || lastDigit >= 7 }"
+	class="segment-vertical segment-right off"
+></span>
+<span
+	style="grid-column: 2; grid-row: 3"
+	[ngClass]="{ on: isNaN(lastDigit) || (lastDigit >= 2 && lastDigit <= 6) || lastDigit >= 8 }"
+	class="segment-horizontal segment-center off"
+></span>
+<span
+	style="grid-column: 1; grid-row: 4"
+	[ngClass]="{ on: lastDigit === 0 || lastDigit === 2 || lastDigit === 6 || lastDigit === 8 }"
+	class="segment-vertical segment-left off"
+></span>
+<span
+	style="grid-column: 3; grid-row: 4"
+	[ngClass]="{ on: lastDigit <= 1 || lastDigit >= 3 }"
+	class="segment-vertical segment-right off"
+></span>
+<span
+	style="grid-column: 2; grid-row: 5"
+	[ngClass]="{
+		on: !isNaN(lastDigit) && lastDigit !== 1 && lastDigit !== 4 && lastDigit !== 7
+	}"
+	class="segment-horizontal segment-bottom off"
+></span>

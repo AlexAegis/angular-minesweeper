@@ -12,6 +12,7 @@ import { shuffle } from '../helper';
 import { Coordinate } from './coordinate.class';
 import { FieldMark } from './field-mark.enum';
 import { Field, isFlagged, isNotFlagged, isQuestioned, Revealer } from './field.interface';
+import { GameState } from './gamestate.enum';
 
 export class MinesweeperGame<T extends Field = Field> implements Iterable<T> {
 	public constructor(
@@ -48,17 +49,17 @@ export class MinesweeperGame<T extends Field = Field> implements Iterable<T> {
 	public remainingMines$ = this.marked$.pipe(map((marked) => this.mineCount - marked));
 
 	public gamestate$ = merge(
-		this.isWon$.pipe(filter(identity), mapTo('won')),
+		this.isWon$.pipe(filter(identity), mapTo(GameState.WON)),
 		this.isBlown$.pipe(
 			filter((isBlown) => !!isBlown),
 			distinctUntilChanged(),
-			mapTo('lost')
+			mapTo(GameState.LOST)
 		),
-		this.isOnGoing$.pipe(distinctUntilChanged(), mapTo('ongoing'))
+		this.isOnGoing$.pipe(distinctUntilChanged(), mapTo(GameState.ONGOING))
 	).pipe(distinctUntilChanged());
 
 	public isEnded$ = this.gamestate$.pipe(
-		map((state) => state === 'won' || state === 'lost'),
+		map((state) => state === GameState.WON || state === GameState.LOST),
 		distinctUntilChanged()
 	);
 

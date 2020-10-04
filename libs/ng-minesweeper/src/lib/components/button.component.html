@@ -1,0 +1,12 @@
+<button
+	class="button {{ cls }}"
+	aria-label="ariaLabel"
+	[style]="style"
+	[disabled]="disabled"
+	[ngClass]="{ inset: isMousedown === true }"
+	(mousedown)="onMouseDown($event)"
+	(contextmenu)="buttonContextmenu.next($event)"
+	(click)="buttonClick.next($event)"
+>
+	<ng-content></ng-content>
+</button>

@@ -1,0 +1,12 @@
+<div>
+	<mine-button *ngFor="let e of (storeService.presets | keyvalue)" (buttonClick)="setTo(e.data)">
+		{{ e.key }}
+	</mine-button>
+
+	<label for="width">Width:</label>
+	<input name="width" type="number" [value]="width" max="999" min="2" />
+	<label for="height">Height:</label>
+	<input name="height" type="number" [value]="height" max="999" min="2" />
+	<label for="mineCount">Mine count:</label>
+	<input name="mineCount" type="number" [value]="mineCount" [max]="width * height - 1" min="1" />
+</div>

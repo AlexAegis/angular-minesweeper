@@ -1,0 +1,13 @@
+<ng-container *ngIf="isOpen">
+	<div [style]="style" class="panel outset {{ cls }}">
+		<div class="top">
+			<span>{{ title }}</span>
+			<mine-button (buttonClick)="close($event)" style="margin-left: auto" class="button">
+				X
+			</mine-button>
+		</div>
+		<ng-content></ng-content>
+	</div>
+
+	<div class="backdrop" (click)="close($event)"></div>
+</ng-container>

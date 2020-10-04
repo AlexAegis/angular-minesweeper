@@ -1,0 +1,8 @@
+<ng-container *ngIf="gamePreset">
+	<ng-container *ngFor="let _ of gamePreset.height | mineIndexArray; let x = index">
+		<ng-container *ngFor="let __ of gamePreset.width | mineIndexArray; let y = index">
+			<mine-tile #tile [x]="x" [y]="y" [disabled]="storeService.isEnded$ | async">
+			</mine-tile>
+		</ng-container>
+	</ng-container>
+</ng-container>

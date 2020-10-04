@@ -1,0 +1,50 @@
+<ng-container *ngIf="revealed; else elseTemplate">
+	<div
+		class="ms-tile"
+		[ngClass]="{ fontpatch: !mine && value && !error, 'ms-tile-error': error && mine }"
+		(click)="onReveal($event)"
+		(contextmenu)="onReveal($event)"
+		(mousedown)="sendLinearClick($event)"
+		[ngStyle]="{ color: storeService.colorMap[value], 'grid-row': x + 1, 'grid-column': y + 1 }"
+	>
+		<mine-image
+			*ngIf="mine"
+			class="tile-img"
+			[src]="storeService.assetMap.mine"
+			alt="Mine"
+		></mine-image>
+		<mine-image
+			*ngIf="!mine && error"
+			class="tile-img"
+			[src]="storeService.assetMap.mineFalse"
+			alt="False Mine"
+		></mine-image>
+		<ng-container *ngIf="!mine && !error && value"> {{ value }}</ng-container>
+	</div>
+</ng-container>
+<ng-template #elseTemplate>
+	<mine-button
+		[isMousedown]="isANeighbourPressed && mark === FieldMark.EMTPY"
+		[disabled]="disabled"
+		(buttonMousedown)="sendLinearClick($event)"
+		[ngClass]="{ 'ms-tile-error': error }"
+		class="button ms-tile ms-tile-font"
+		[ngStyle]="{ 'grid-row': x + 1, 'grid-column': y + 1 }"
+		(buttonClick)="onReveal($event)"
+		(buttonContextmenu)="onMark($event)"
+	>
+		<mine-image
+			*ngIf="mark === FieldMark.FLAG"
+			class="tile-img"
+			[src]="storeService.assetMap.flag"
+			alt="Flag"
+		></mine-image>
+
+		<mine-image
+			*ngIf="mark === FieldMark.QUESTION"
+			class="tile-img"
+			[src]="storeService.assetMap.questionMark"
+			alt="Question Mark"
+		></mine-image>
+	</mine-button>
+</ng-template>

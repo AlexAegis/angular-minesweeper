@@ -1,0 +1,57 @@
+.outer {
+	display: grid;
+	height: fit-content;
+	width: fit-content;
+	margin: auto;
+	grid-template-rows: auto auto;
+	user-select: none;
+}
+
+.game {
+	display: grid;
+	grid-auto-rows: 1fr;
+	grid-auto-columns: 1fr;
+	height: fit-content;
+	width: fit-content;
+	box-sizing: border-box;
+	grid-template-rows: auto 5em auto;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.button,
+.panel {
+	display: block;
+	border: #eee;
+	border-style: none;
+	border-spacing: 3px;
+	border-width: 3px;
+	background-color: rgb(192, 192, 192);
+}
+
+.button {
+	z-index: 100;
+	cursor: pointer;
+	border-style: outset;
+	outline-color: #c3c3c3;
+	outline-style: outset;
+	outline-width: 0;
+}
+
+.panel {
+	outline-width: 0;
+}
+
+.inset {
+	border-style: inset;
+	outline-style: inset;
+}
+
+.padded {
+	padding: 3px;
+}
+
+.outset {
+	border-style: outset;
+	outline-style: outset;
+}

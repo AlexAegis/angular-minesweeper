@@ -1,0 +1,26 @@
+<div class="panel outer outset">
+	<mine-title-bar
+		title="Angular Minesweeper v{{ version }}"
+		[icon]="storeService.assetMap.mine"
+	></mine-title-bar>
+	<div class="panel game padded">
+		<mine-menu></mine-menu>
+
+		<mine-panel class="panel inset padded">
+			<mine-digit-display
+				[value]="storeService.remainingMines$ | async"
+				paddedLength="3"
+			></mine-digit-display>
+			<mine-smiley (click)="onSmiley()"></mine-smiley>
+			<mine-digit-display
+				[value]="storeService.elapsedTime$ | async"
+				paddedLength="3"
+			></mine-digit-display>
+		</mine-panel>
+		<mine-playfield
+			class="panel inset"
+			#game
+			[gamePreset]="storeService.gamePreset$ | async"
+		></mine-playfield>
+	</div>
+</div>

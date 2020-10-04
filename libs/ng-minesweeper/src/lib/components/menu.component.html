@@ -1,0 +1,19 @@
+<div>
+	<mine-button style="margin: 1px; border-style: none" (buttonClick)="settingsModal.open()">
+		settings
+	</mine-button>
+	<mine-button style="margin: 1px; border-style: none" (buttonClick)="highScoreModal.open()">
+		highscore
+	</mine-button>
+	<mine-button style="margin-left: auto; border-style: none" (buttonClick)="openGithubHomepage()">
+		github
+	</mine-button>
+</div>
+
+<mine-modal title="Settings" #settingsModal>
+	<mine-settings (done)="settingsModal.close()"></mine-settings>
+</mine-modal>
+
+<mine-modal title="Highscore" style="width: 300px; height: 400px" #highScoreModal>
+	<mine-highscore></mine-highscore>
+</mine-modal>
